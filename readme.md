@@ -1,18 +1,19 @@
 # Speech Recognition and Large Language Model Application for Vietnamese Sign Language Automatic Translation to Support the Hearing Impaired 🇻🇳
 
 **Graduation Thesis - Falcuty of E-Commerce**
+
 **Danang University of Economics**
 
 ---
 ## Table of Contents
-- [Abstract] (#abstract)
-- [Introduction] (#introduction)
-- [Dataset] (#dataset)
-- [Methodology] (#methodology)
-    - [Architecture] (#architecture)
-    - [ExperimentalSetup] (#experimental-setup)
-- [Results] (#results)
-- [Installation&Usage] (#installation--usage)
+- [Abstract](#abstract)
+- [Introduction](#introduction)
+- [Dataset](#dataset)
+- [Methodology](#methodology)
+  - [Architecture](#architecture)
+  - [Experimental Setup](#experimental-setup)
+- [Results](#results)
+- [Installation & Usage](#installation--usage)
 ---
 
 ## Abstract
