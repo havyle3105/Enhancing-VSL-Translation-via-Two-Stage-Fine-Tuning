@@ -45,7 +45,7 @@ The system operates on a pipeline architecture consisting of two primary modules
 * **Module 1 (Speech-to-Text):** Utilized the **PhoWhisper-small** model to convert spoken Vietnamese into text with high accuracy and low Word Error Rate (WER).
 * **Module 2 (Machine Translation):** Utilized the **ViT5-base** model to translate standard Vietnamese text into Sign Language syntax text (VSL Gloss)
 
-![Architecture Diagram](Picture1.jpg)
+![Architecture Diagram](Picture1.png)
 *(General data flow diagram of the system)*
 ---
 ### Experimental Setup
